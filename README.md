@@ -118,3 +118,7 @@ Don't forget to star the repo 🌟😉
 The features outlined below are non-functional:
 - Some list tile and icons (e.g. icon button to add/update profile pic) in the profile screen are placeholder icon.
 - Profile pictures are static (Firebase Storage no longer offers the free tier unless you upgrade to the Spark plan).
+
+## Source and attribution
+
+This independent repository is a copy of [morikeli/mula](https://github.com/morikeli/mula). The original Git commit history, authorship, and existing license notices have been preserved. Credit for the original project belongs to its original authors and contributors. This copy is maintained by [georges-mars](https://github.com/georges-mars).
